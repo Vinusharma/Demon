@@ -1,9 +1,8 @@
 print("Hello Guys This Project Made By 𝕍𝕚𝕟𝕦𝕤𝕙𝕒𝕣𝕞𝕒")
 print("This tool made for tor links DO ANY THING WITH YOUR OWN RISK")
-a= input("What is your name")
+a= input("What is your name : ")
 print("hello" , a)
 b = input("You want Tor Links ?? Type Y/N")
-c = input("are you sure ?? Type :- Y/N")
 print("ok here is your links ENJOY!!!!!")
 print('''
 
